@@ -4,6 +4,6 @@
   "main": "index.js",
   "repository": "https://github.com/solussaude/delphistompclient.git",
   "license": "MIT",
-  "packageManager": "yarn@4.6.0",
+  "packageManager": "yarn@4.13.0",
   "private": true
 }
